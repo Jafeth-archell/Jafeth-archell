@@ -22,7 +22,7 @@
 const hunter = {
     name: "[Daniel Magallón]",
     class: "Aspiring Developer",
-    location: "[Pnamá]",
+    location: "[Panamá]",
     level: "Beginner",
     learning: ["HTML", "CSS", "JavaScript"],
     interests: ["Web Development", "Anime", "Technology"],
